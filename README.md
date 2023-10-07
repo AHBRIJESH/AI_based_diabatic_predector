@@ -1,1 +1,1 @@
-# AI_based_diabatic_predector
+# Diabetic Predector
